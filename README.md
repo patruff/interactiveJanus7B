@@ -1,6 +1,6 @@
 # Interactive Janus-Pro-7B Image Generator
 
-A Jupyter notebook for interactive image generation using Janus-Pro-7B.
+A Jupyter notebook for interactive image generation using Janus-Pro-7B. Just copy and paste the contents of the .py file (ignore the .ipynb file) and make sure to have your HF_TOKEN set as a secret in your Colab notebook. Enjoy!
 
 ## Requirements
 - A100 GPU (40GB or 80GB)
